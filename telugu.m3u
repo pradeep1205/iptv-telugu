@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** INDIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bopCE0h.png" group-title="INDIA",*** INDIA - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",5aab TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",7S Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 tvg-id="AajTak HD" tvg-name="" tvg-logo="" group-title="INDIA",AajTak HD
+#EXTINF:-1 tvg-id="AajTak HD" tvg-name="" tvg-logo="" group-title="News",AajTak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ACV News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ACV News
 https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ACV Utsav
 https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
@@ -227,7 +227,7 @@ http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chun
 https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Times Now HD" tvg-logo="https://i.imgur.com/mI3NURu.png" group-title="INDIA",Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",TV9 Telugu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Telugu",TV9 Telugu
 http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Twenty Four News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
