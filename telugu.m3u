@@ -1,263 +1,239 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="7HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",7 HD (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8889/playlist.m3u8
-#EXTINF:-1 tvg-id="21Mix.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",21 Mix (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8756/playlist.m3u8
-#EXTINF:-1 tvg-id="21Plus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",21 Plus (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8750/playlist.m3u8
-#EXTINF:-1 tvg-id="21PopulloreHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",21 Popullore HD (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8749/playlist.m3u8
-#EXTINF:-1 tvg-id="21RTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",21 RTV (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8748/playlist.m3u8
-#EXTINF:-1 tvg-id="21TVMacedonia.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",21 TV Macedonia (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8790/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",A TV (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8709/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://abcnews.al/wp-content/uploads/2020/11/cropped-abclogo.png" group-title="News",ABC News (720p) [Not 24/7]
-https://tv2.abcnews.al/live/abcnews/playlist.m3u8
-#EXTINF:-1 tvg-id="AdriaTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Adria TV (480p) [Timeout]
-https://tvlive.rtsh.dev/live/adriamed/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbaniaFolk.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Albania Folk (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8759/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbanianTVAmerica.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Albanian TV America (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8711/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbMusikHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",AlbMusik HD (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8821/playlist.m3u8
-#EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="",AlbUK TV (1080p) [Not 24/7]
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ALPO.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/00hiXCL.png" group-title="",ALPO (720p) [Not 24/7]
-https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-#EXTINF:-1 tvg-id="Alsat.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Alsat (1080p) [Not 24/7]
-http://93.157.62.180/AlsatM/index.m3u8
-#EXTINF:-1 tvg-id="ARTAHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",ARTA HD (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8745/playlist.m3u8
-#EXTINF:-1 tvg-id="ATD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",ATD (720p)
-http://46.99.146.236/0.m3u8
-#EXTINF:-1 tvg-id="BabyTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",BabyTV (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8747/playlist.m3u8
-#EXTINF:-1 tvg-id="BangBang.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/TD4J83Q.png" group-title="Kids",Bang Bang (576p) [Not 24/7]
-http://93.157.62.180/BangBang/index.m3u8
-#EXTINF:-1 tvg-id="BBFMusicTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",BBF Music TV (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8795/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel117.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Channel 117 (1080p) [Offline]
-https://shkoder.gjirafa.com/api/media/rgjirafa/t0110y/index.m3u8
-#EXTINF:-1 tvg-id="Cufo.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/cjVAXnZ.png" group-title="Kids",Çufo (576p)
-http://93.157.62.180/Cufo/index.m3u8
-#EXTINF:-1 tvg-id="DigitalbAktionHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Aktion HD (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8742/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbAutor.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Autor (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8753/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbBigBrotherVIP1.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Big Brother VIP 1 (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8803/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbBigBrotherVIP2.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Big Brother VIP 2 (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8804/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbDrame.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Dramë (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8727/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbDYHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb DY HD (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8731/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbEurofilm.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Eurofilm (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8758/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbFamilyHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Family HD (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8754/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb HD (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8746/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbHistori.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Histori (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8729/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbHitsHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Hits HD (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8755/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbKomedi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Komedi (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8752/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbNatyra.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Natyra (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8739/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbNjeHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Një HD (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8730/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbShkense.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Shkensë (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8726/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbStinet.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Stinët (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8751/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalbThriller.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Digitalb Thriller (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8757/playlist.m3u8
-#EXTINF:-1 tvg-id="Drame.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Drame (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8883/playlist.m3u8
-#EXTINF:-1 tvg-id="dTVHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",dTV HD (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8793/playlist.m3u8
-#EXTINF:-1 tvg-id="ElrodiTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Elrodi TV (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8718/playlist.m3u8
-#EXTINF:-1 tvg-id="FaxNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Fax News (360p) [Not 24/7]
-http://edge01eu.ekranet.com/faxnews/index.m3u8
-#EXTINF:-1 tvg-id="FirstChannel.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",First Channel (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8717/playlist.m3u8
-#EXTINF:-1 tvg-id="FrameTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Frame TV (1080p) [Not 24/7]
-http://195.154.252.221:8000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="KHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",K HD (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8710/playlist.m3u8
-#EXTINF:-1 tvg-id="Kanali7.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://tv2go.t-2.net/static/media/img/channels/dark/ios/small/retina/145526.png" group-title="",Kanali 7 (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8761/playlist.m3u8
-#EXTINF:-1 tvg-id="KLAN.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/pWoMc0r.png" group-title="",KLAN [Timeout]
-http://79.106.73.244:4040/live/klanhdmob/playlist.m3u8
-#EXTINF:-1 tvg-id="KlanHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Klan HD (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8704/playlist.m3u8
-#EXTINF:-1 tvg-id="KlanMakedonia.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Klan Makedonia (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8789/playlist.m3u8
-#EXTINF:-1 tvg-id="KLANNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/NMtr8Z4.jpg" group-title="News",KLAN News [Offline]
-http://51.195.88.12:4050/live/klannewsmobpp3/playlist.m3u8
-#EXTINF:-1 tvg-id="KlanPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Klan Plus (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8720/playlist.m3u8
-#EXTINF:-1 tvg-id="KLANPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/xg23eK4.jpg" group-title="News",KLAN Plus [Offline]
-http://51.195.88.12:4050/live/klanplusmobpp3/playlist.m3u8
-#EXTINF:-1 tvg-id="Komedi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Komedi (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8881/playlist.m3u8
-#EXTINF:-1 tvg-id="Kosova.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Kosova (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8706/playlist.m3u8
-#EXTINF:-1 tvg-id="KTVHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",KTV HD (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8705/playlist.m3u8
-#EXTINF:-1 tvg-id="Max.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Max (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8882/playlist.m3u8
-#EXTINF:-1 tvg-id="MPT2.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",MPT 2 (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8728/playlist.m3u8
-#EXTINF:-1 tvg-id="Muse.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringMuse_logo.png" group-title="",Muse (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8778/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24 (392p) [Not 24/7]
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="News24AL.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",News24 AL (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8724/playlist.m3u8
-#EXTINF:-1 tvg-id="Novela.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Novela (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8884/playlist.m3u8
-#EXTINF:-1 tvg-id="Opoja.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Opoja (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8723/playlist.m3u8
-#EXTINF:-1 tvg-id="Oranews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Oranews (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8715/playlist.m3u8
-#EXTINF:-1 tvg-id="PeaceTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Peace TV (360p)
-http://93.157.62.180/PeaceTV/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Peace TV (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8792/playlist.m3u8
-#EXTINF:-1 tvg-id="PendimiTVHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Pendimi TV HD (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8786/playlist.m3u8
-#EXTINF:-1 tvg-id="QSportNews.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Q Sport News (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8785/playlist.m3u8
-#EXTINF:-1 tvg-id="ReportTVHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Report TV HD (576p) [Not 24/7]
-http://93.157.62.180/ReportTV/index.m3u8
-#EXTINF:-1 tvg-id="RitaTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Rita TV (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8890/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH1.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IVttVXp.png" group-title="",RTSH 1 (406p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH1HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IVttVXp.png" group-title="",RTSH 1 HD (1080p)
-http://93.157.62.180/RTSH1/index.m3u8
-#EXTINF:-1 tvg-id="RTSH2.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/jEirJ9x.png" group-title="",RTSH 2 (406p) [Timeout]
-https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH2HD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IVttVXp.png" group-title="",RTSH 2 HD (406p)
-http://93.157.62.180/RTSH2/index.m3u8
-#EXTINF:-1 tvg-id="RTSH3.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/TNNYFYj.png" group-title="",RTSH 3 (406p)
-http://93.157.62.180/RTSH3/index.m3u8
-#EXTINF:-1 tvg-id="RTSH3.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/TNNYFYj.png" group-title="",RTSH 3 (406p) [Timeout]
-https://tvlive.rtsh.dev/live/rtsh3ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSH24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/qLlUkn8.png" group-title="",RTSH 24 (406p)
-http://93.157.62.180/RTSH24/index.m3u8
-#EXTINF:-1 tvg-id="RTSH24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/qLlUkn8.png" group-title="",RTSH 24 (406p) [Timeout]
-https://tvlive.rtsh.dev/live/rtsh_24_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHAgro.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Vh5MgY8.png" group-title="",RTSH Agro (480p) [Not 24/7]
-http://93.157.62.180/RTSHAgro/index.m3u8
-#EXTINF:-1 tvg-id="RTSHAgro.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Vh5MgY8.png" group-title="",RTSH Agro (480p) [Timeout]
-https://tvlive.rtsh.dev/live/rtsh_agro_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHFemije.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/K7uClaf.png" group-title="",RTSH Femijë (480p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_femije_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHFilm.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/CB2zett.png" group-title="",RTSH Film (406p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHGjirokastra.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/lXq6WsR.png" group-title="",RTSH Gjirokastra (480p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHKorca.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/RtJnrvm.jpg" group-title="",RTSH Korça (480p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_korca_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHKukesi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gNhoDAX.png" group-title="",RTSH Kukësi (360p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHKuvend.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/k83keY8.png" group-title="",RTSH Kuvend (360p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHMuzike.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/AXXlIgR.png" group-title="",RTSH Muzike (406p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/UiDzIUN.png" group-title="",RTSH Plus (480p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHSatelit.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",RTSH Satelit (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8701/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHShkolle.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/e8KhDGp.png" group-title="",RTSH Shkollë (360p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IBpZiuO.png" group-title="",RTSH Shqip (406p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
-#EXTINF:-1 tvg-id="RTSHSport.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/rCTH2iP.png" group-title="",RTSH Sport (720p) [Not 24/7]
-https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVDukagjini.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",RTV Dukagjini (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8788/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVFontana.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",RTV Fontana (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8852/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVIlirida.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",RTV Ilirida (360p) [Not 24/7]
-https://5a1178b42cc03.streamlock.net/rtvilirida/rtvilirida/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVislam.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",RTVislam (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8714/playlist.m3u8
-#EXTINF:-1 tvg-id="Shenja.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Shenja (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8850/playlist.m3u8
-#EXTINF:-1 tvg-id="SofiaHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Sofia HD (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8820/playlist.m3u8
-#EXTINF:-1 tvg-id="SofiaHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Sofia HD (576p) [Not 24/7]
-http://93.157.62.180/Sofia/index.m3u8
-#EXTINF:-1 tvg-id="StarHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Star HD (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8781/playlist.m3u8
-#EXTINF:-1 tvg-id="SyriHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Syri HD (720p)
-http://93.157.62.180/SyriTV/index.m3u8
-#EXTINF:-1 tvg-id="SyriHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Syri HD (1080p) [Geo-blocked]
-http://us.bestvideostreaming.is/8784/playlist.m3u8
-#EXTINF:-1 tvg-id="SyriTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="http://www.albepg.com/tvlogi/Syri%20Blue.png" group-title="",Syri TV (720p) [Not 24/7]
-http://live.syri.tv:6969/live/syriblue/hd/23.ts
-#EXTINF:-1 tvg-id="TipTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TipTV.png" group-title="",Tip TV (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8776/playlist.m3u8
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/top-channel-logo.png" group-title="",Top Channel (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8708/playlist.m3u8
-#EXTINF:-1 tvg-id="Tring3.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring 3 (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8773/playlist.m3u8
-#EXTINF:-1 tvg-id="TringActionHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring Action HD (1080p) [Not 24/7]
-http://93.157.62.180/TringAction/index.m3u8
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringComedy.png" group-title="",Tring Comedy (576p) [Geo-blocked]
-http://93.157.62.180/TringComedy/index.m3u8
-#EXTINF:-1 tvg-id="TringFantasy.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://prd-static-mkt.spectar.tv/rev-1636968170/image_transform.php/transform/1/instance_id/1/video_id/126" group-title="",Tring Fantasy (576p) [Geo-blocked]
-http://93.157.62.180/TringFantasy/index.m3u8
-#EXTINF:-1 tvg-id="TringHistory.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringHistory.png" group-title="",Tring History (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8765/playlist.m3u8
-#EXTINF:-1 tvg-id="TringJollyHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring Jolly HD (1080p) [Not 24/7]
-http://93.157.62.180/JollyHD/index.m3u8
-#EXTINF:-1 tvg-id="TringKids.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringKids_logo.png" group-title="",Tring Kids (576p) [Not 24/7]
-http://93.157.62.180/TringKids/index.m3u8
-#EXTINF:-1 tvg-id="TringLife.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring Life (576p)
-http://93.157.62.180/TringLife/index.m3u8
-#EXTINF:-1 tvg-id="TringPlanet.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringPlanet.png" group-title="",Tring Planet (576p)
-http://93.157.62.180/TringPlanet/index.m3u8
-#EXTINF:-1 tvg-id="TringShqip.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringShqip.png" group-title="",Tring Shqip (576p) [Not 24/7]
-http://93.157.62.180/TringShqip/index.m3u8
-#EXTINF:-1 tvg-id="TringSuperHD.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring Super HD (1080p)
-http://93.157.62.180/TringSuper/index.m3u8
-#EXTINF:-1 tvg-id="TringTring.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/TringTringTv.png" group-title="",Tring Tring (576p)
-http://93.157.62.180/TringTring/index.m3u8
-#EXTINF:-1 tvg-id="TringWorld.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Tring World (576p)
-http://93.157.62.180/TringWorld/index.m3u8
-#EXTINF:-1 tvg-id="TurboTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",Turbo TV (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8839/playlist.m3u8
-#EXTINF:-1 tvg-id="TV7Albania.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="",TV 7 Albania (540p) [Not 24/7]
-http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
-#EXTINF:-1 tvg-id="TVApollon.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",TV Apollon (480p)
-https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-#EXTINF:-1 tvg-id="TVDielli.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",TV Dielli (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8818/playlist.m3u8
-#EXTINF:-1 tvg-id="TVKoha.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/AJ472ot.png" group-title="",TV Koha (720p) [Offline]
-rtmp://live.tvkoha.tv:1935/live/koha/livestream
-#EXTINF:-1 tvg-id="TVLlapi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",TV Llapi (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8823/playlist.m3u8
-#EXTINF:-1 tvg-id="TVOpoja.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/De7sZf6.jpg" group-title="",TV Opoja (720p) [Not 24/7]
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPlisi.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",TV Plisi (720p) [Geo-blocked]
-http://us.bestvideostreaming.is/8735/playlist.m3u8
-#EXTINF:-1 tvg-id="USmile.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",U Smile (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8772/playlist.m3u8
-#EXTINF:-1 tvg-id="USmile.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",U Smile (576p) [Geo-blocked]
-http://us.bestvideostreaming.is/8802/playlist.m3u8
-#EXTINF:-1 tvg-id="VPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",V Plus (1080p)
-http://93.157.62.180/VizionPlus/index.m3u8
-#EXTINF:-1 tvg-id="ZjarrTelevizion.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="",Zjarr Televizion (360p) [Not 24/7]
-http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:-1 tvg-id="ZjarrTelevizion.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/UValLp1.png" group-title="",Zjarr Televizion (1080p) [Timeout]
-http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="*** INDIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bopCE0h.png" group-title="INDIA",*** INDIA - github.com/Free-IPTV
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="AajTak HD" tvg-name="" tvg-logo="" group-title="INDIA",AajTak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ACV
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ACV News
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ACV Utsav
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ACV Utsav Plus
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Akaal TV
+http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ashrafi Channel" tvg-logo="https://i.imgur.com/WjNX1vS.png" group-title="INDIA",Ashrafi Channel
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Ayush TV
+http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Bhakti TV" tvg-logo="https://i.imgur.com/PFiNM4e.png" group-title="INDIA",Bhakti TV
+plugin://plugin.video.youtube/play/?video_id=Xeg0Q6SZRBA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel-S Live TV - github.com/Free-IPTV" tvg-logo="" group-title="INDIA",Channel-S Live TV - github.com/Free-IPTV
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Channel Win
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Awaaz" tvg-logo="https://i.imgur.com/qMGgnjb.png" group-title="INDIA",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN NEWS" tvg-logo="" group-title="INDIA",CNN NEWS
+https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",DD Malayalam
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 tvg-id="DD News-IN" tvg-name="DD News" tvg-logo="https://i.imgur.com/QCE6XYu.jpg" group-title="INDIA",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Divya
+http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW NEWS HD" tvg-logo="" group-title="INDIA",DW NEWS HD
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="ET Now" tvg-logo="https://i.imgur.com/rhkI95a.png" group-title="INDIA",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Eye 95 America (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",FastWay
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="Flowers TV - github.com/Free-IPTV" tvg-logo="" group-title="INDIA",Flowers TV - github.com/Free-IPTV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gabruu TV" tvg-logo="" group-title="INDIA",Gabruu TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Gaunda Punjab TV
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Geo Kahani
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Global Punjab
+https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GSTV" tvg-logo="https://i.imgur.com/zCIK5Ze.png" group-title="INDIA",GSTV
+https://cdnlive.livecast.io/388656798579293628302251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Gurbani Healing
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Hiru TV
+http://cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="India News" tvg-logo="" group-title="INDIA",India News
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-id="India TV-IN" tvg-name="India TV" tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="INDIA",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Janataa TV
+http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Jeevan TV
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Jonack TV
+http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Kairali News
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Kairali TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Kairali We
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Kalaignar
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kalinga TV" tvg-logo="" group-title="INDIA",Kalinga TV
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanak News" tvg-logo="" group-title="INDIA",Kanak News
+https://live.kanaknews.com:4443/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Kasthuri TV
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Kaumudy TV
+http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Khyber News TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Lok Sabha TV" tvg-logo="https://i.imgur.com/eoAeDrU.jpg" group-title="INDIA",Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="Mangalam TV - github.com/Free-IPTV" tvg-logo="" group-title="INDIA",Mangalam TV - github.com/Free-IPTV
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Mathrubhumi News
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Mazhavil Manorama HD
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Media One
+https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",MH1 Prim
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirror Now" tvg-logo="https://i.imgur.com/e72DoDw.png" group-title="INDIA",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nandighosha Tv" tvg-logo="" group-title="INDIA",Nandighosha Tv
+https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Naxtra News" tvg-logo="" group-title="INDIA",Naxtra News
+http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RZ0HIn4.jpg" group-title="INDIA",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="INDIA",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News18 Hindi" tvg-logo="" group-title="INDIA",News18 Hindi
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News18 Lokmat" tvg-logo="https://i.imgur.com/chFSLkD.jpg" group-title="INDIA",News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="" group-title="INDIA",News24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="" group-title="INDIA",OTV
+https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Peace TV Bangla
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pramaya News7" tvg-logo="" group-title="INDIA",Pramaya News7
+https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Pratidin Time
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 tvg-id="Prive Tv HD" tvg-name="" tvg-logo="" group-title="INDIA",Prive Tv HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Punjabi TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Puthuyugam TV
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",R Plus News
+https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Reporter TV
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="https://i.imgur.com/Z3PgblG.png" group-title="INDIA",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Republic TV" tvg-logo="https://i.imgur.com/PvI2PCX.png" group-title="INDIA",Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Rosebowl
+https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RSTV RajyaSabha" tvg-logo="https://i.imgur.com/9NsI8zT.jpg" group-title="INDIA",RSTV RajyaSabha
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Sardari TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Kids" tvg-logo="" group-title="INDIA",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Shubhsandesh
+http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Steelbird Music
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Suvarna News 24/7
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Tamil Vision
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TANGY PUNJABI TV" tvg-logo="" group-title="INDIA",TANGY PUNJABI TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thanthi TV" tvg-logo="https://i.imgur.com/jek0twl.png" group-title="INDIA",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Times Now HD" tvg-logo="https://i.imgur.com/mI3NURu.png" group-title="INDIA",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",TV9 Telugu
+http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Twenty Four News
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Vaanavil TV
+http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",Velicham
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee News" tvg-logo="" group-title="INDIA",Zee News
+https://zmcl-live.akamaized.net/zeenewsclean_mbr/index.m3u8?hdnts=st=1607509766~exp=1607512766~acl=/*~hmac=b0891fd69bc6a0783203529934bc82a562c9b7a6d9215f3759bac7a30068e556
