@@ -237,3 +237,20 @@ http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee News" tvg-logo="" group-title="INDIA",Zee News
 https://zmcl-live.akamaized.net/zeenewsclean_mbr/index.m3u8?hdnts=st=1607509766~exp=1607512766~acl=/*~hmac=b0891fd69bc6a0783203529934bc82a562c9b7a6d9215f3759bac7a30068e556
+#EXTINF:-1 tvg-id="geminimovieshd.in" tvg-name="IND-Telugu: GEMINI movies" tvg-logo="http://openboxv8s.com/india/sun_gemini_movies.png" group-title="INDIAN TELUGU",IND-Telugu: GEMINI movies
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167777
+#EXTINF:-1 tvg-id="geminicomedy.in" tvg-name="PkInd-Telugu: GEMINI comedy" tvg-logo="http://openboxv8s.com/india/sun_gemini_comedy.png" group-title="INDIAN TELUGU",PkInd-Telugu: GEMINI comedy
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167778
+#EXTINF:-1 tvg-id="geminilife.in" tvg-name="IND-Telugu: Gemini life" tvg-logo="http://openboxv8s.com/india/sun_gemini_life.jpg" group-title="INDIAN TELUGU",IND-Telugu: Gemini life
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167779
+#EXTINF:-1 tvg-id="etvplus.in" tvg-name="IND-Telugu: ETV PLUS" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png" group-title="INDIAN TELUGU",IND-Telugu: ETV PLUS
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167786
+#EXTINF:-1 tvg-id="" tvg-name="IND-Telugu: ETV LIFE" tvg-logo="http://openboxv8s.com/india/etv_in_life.png" group-title="INDIAN TELUGU",IND-Telugu: ETV LIFE
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167787
+#EXTINF:-1 tvg-id="etvcinema.in" tvg-name="IND-Telugu: ETV Cinema" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png" group-title="INDIAN TELUGU",IND-Telugu: ETV Cinema
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167788
+#EXTINF:-1 tvg-id="geminimusic.in" tvg-name="IND-Telugu: GEMINI_MUSIC" tvg-logo="http://openboxv8s.com/india/sun_gemini_music.png" group-title="INDIAN TELUGU",IND-Telugu: GEMINI_MUSIC
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167815
+#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="IND-Telugu: Raj Musix" tvg-logo="http://openboxv8s.com/india/raj_musix_telugu.jpg" group-title="INDIAN TELUGU",IND-Telugu: Raj Musix
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167826
+#EXTINF:-1 tvg-id="" tvg-name="IND-Telugu: 	TV9 Telugu" tvg-logo="" group-title="INDIAN TELUGU",IND-Telugu: 	TV9 Telugu
