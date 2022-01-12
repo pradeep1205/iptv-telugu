@@ -255,3 +255,19 @@ http://opplex.tv:8080/abdulrauf/abdulrauf123/167815
 http://opplex.tv:8080/abdulrauf/abdulrauf123/167826
 #EXTINF:-1 tvg-id="" tvg-name="IND-Telugu: 	TV9 Telugu" tvg-logo="" group-title="INDIAN TELUGU",IND-Telugu: 	TV9 Telugu
 #EXTINF:-1 tvg-id="" tvg-name="IN: TataSky English in Telugu" tvg-logo="" group-title="TATASKY (SPECIAL)",IN: TataSky English in Telugu
+#EXTINF:-1 tvg-id="" tvg-name="IND-Telugu: ***Telugu***" tvg-logo="" group-title="INDIAN TELUGU",IND-Telugu: ***Telugu***
+http://opplex.tv:8080/abdulrauf/abdulrauf123/107379
+#EXTINF:-1 tvg-id="geminitvhd.in" tvg-name="IND-Telugu: Gemini HD" tvg-logo="http://openboxv8s.com/india/sun_gemini.png" group-title="INDIAN TELUGU",IND-Telugu: Gemini HD
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167614
+#EXTINF:-1 tvg-id="etvhd.in" tvg-name="IND-Telugu: Etv HD" tvg-logo="http://openboxv8s.com/india/etv_in.jpg" group-title="INDIAN TELUGU",IND-Telugu: Etv HD
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167616
+#EXTINF:-1 tvg-id="maatv.in" tvg-name="IND-Telugu: Maa HD" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg" group-title="INDIAN TELUGU",IND-Telugu: Maa HD
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167635
+#EXTINF:-1 tvg-id="maamovieshd.in" tvg-name="IND-Telugu: MAA MOVIES" tvg-logo="http://openboxv8s.com/india/maa_movies.jpg" group-title="INDIAN TELUGU",IND-Telugu: MAA MOVIES
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167640
+#EXTINF:-1 tvg-id="zeetelugu.in" tvg-name="IND-Telugu: Zee Telugu" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png" group-title="INDIAN TELUGU",IND-Telugu: Zee Telugu
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167652
+#EXTINF:-1 tvg-id="maagold.in" tvg-name="IND-Telugu: MAA GOLD" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg" group-title="INDIAN TELUGU",IND-Telugu: MAA GOLD
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167653
+#EXTINF:-1 tvg-id="" tvg-name="IND-regional: MK_TELEVISION" tvg-logo="" group-title="INDIAN TELUGU",IND-regional: MK_TELEVISION
+http://opplex.tv:8080/abdulrauf/abdulrauf123/167715
